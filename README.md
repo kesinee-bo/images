@@ -1,1 +1,2 @@
-# เพื่อแชร์ข้อมูลเพื่อใช้ในการเรียนการสอนรายวิชา 4613629 หัวข้อพิเศษทางวิทยาการคอมพิวเตอร์ 1 (Special Topics in Computer Science I) ปีการศึกษา 2561/2
+## 4613629 Special Topics in Computer Science I (2561/2)
+
